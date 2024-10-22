@@ -1,6 +1,10 @@
 ##             Hola, soy Eiris Salazar👋
 
 ![imagen banner](https://media.licdn.com/dms/image/v2/C5616AQGOfXem4iqqpg/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1660746996615?e=1735171200&v=beta&t=WTpMgV_iHr7fMFNXIBiuIvcfqQRDLboaLQ5cQ_9frEw)
+<div align="center">
+    <strong>Full Stack Developer</strong>
+</div>
+
 ### Sobre mi
 Soy un programador full stack enfocado en el desarrollo frontend, con aproximadamente dos años de experiencia en la industria.
 
