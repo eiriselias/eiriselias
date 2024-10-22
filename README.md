@@ -31,6 +31,7 @@ Finalmente, tengo una fuerte habilidad para la resolución de problemas, lo que 
   <img src="https://i.imgur.com/c6lTS8w.png" alt="logoHtml" width="100"/>
   <img src="https://i.imgur.com/kkeeC0y.png" alt="logoCss" width="100"/>
   <img src="https://i.imgur.com/Zcb9ELE.png" alt="logoGitHub" width="100"/>
+  <img src="https://i.imgur.com/9BIdnPs.png" alt="logoGit" width="100"/>
   <img src="https://i.imgur.com/P7fXRYM.png" alt="logoNodeJs" width="100"/>
   
 </div>
