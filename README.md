@@ -18,6 +18,21 @@ Mi capacidad de adaptación es una de mis mayores fortalezas, ya que me permite 
 
 Finalmente, tengo una fuerte habilidad para la resolución de problemas, lo que me permite superar obstáculos y encontrar soluciones eficaces en situaciones complejas.
 
+<div align="center">
+    <strong>Skills</strong>
+</div>
+<div style="display: flex; justify-content: center; align-items: center; gap: 10px; flex-wrap: wrap; width: 100%;">
+  <img src="https://i.imgur.com/nF4ATmr.png" alt="logoAngular" width="100"/>
+  <img src="https://i.imgur.com/Yfryayt.png" alt="logoJavaScript" width="100"/>
+  <img src="https://i.imgur.com/2hLh0R0.png" alt="logoTypeScript" width="100"/>
+  <img src="https://i.imgur.com/c6lTS8w.png" alt="logoHtml" width="100"/>
+  <img src="https://i.imgur.com/kkeeC0y.png" alt="logoCss" width="100"/>
+  <img src="https://i.imgur.com/9BIdnPs.png" alt="logoGit" width="100"/>
+  <img src="https://i.imgur.com/Zcb9ELE.png" alt="logoGitHub" width="100"/>
+  <img src="https://i.imgur.com/P7fXRYM.png" alt="logoNodeJs" width="100"/>
+</div>
+
+
 <!--
 **eiriselias/eiriselias** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
