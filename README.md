@@ -22,14 +22,17 @@ Finalmente, tengo una fuerte habilidad para la resolución de problemas, lo que 
     <strong>Skills</strong>
 </div>
 <div style="display: flex; justify-content: center; align-items: center; gap: 10px; flex-wrap: wrap; width: 100%;">
+  
+  <img src="https://cdn.iconscout.com/icon/free/png-256/free-react-logo-icon-download-in-svg-png-gif-file-formats--wordmark-programming-langugae-freebies-pack-logos-icons-1175110.png?f=webp&w=256" alt="logoReact" width="100"/>
+  <img src="https://images.ctfassets.net/23aumh6u8s0i/c04wENP3FnbevwdWzrePs/1e2739fa6d0aa5192cf89599e009da4e/nextjs" alt="logoNextJs" width="100"/>
   <img src="https://i.imgur.com/nF4ATmr.png" alt="logoAngular" width="100"/>
   <img src="https://i.imgur.com/Yfryayt.png" alt="logoJavaScript" width="100"/>
   <img src="https://i.imgur.com/2hLh0R0.png" alt="logoTypeScript" width="100"/>
   <img src="https://i.imgur.com/c6lTS8w.png" alt="logoHtml" width="100"/>
   <img src="https://i.imgur.com/kkeeC0y.png" alt="logoCss" width="100"/>
-  <img src="https://i.imgur.com/9BIdnPs.png" alt="logoGit" width="100"/>
   <img src="https://i.imgur.com/Zcb9ELE.png" alt="logoGitHub" width="100"/>
   <img src="https://i.imgur.com/P7fXRYM.png" alt="logoNodeJs" width="100"/>
+  
 </div>
 
 
