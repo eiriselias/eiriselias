@@ -1,6 +1,6 @@
 ##             Hola, soy Eiris Salazar👋
 
-![imagen banner](https://media.licdn.com/dms/image/v2/C5616AQGOfXem4iqqpg/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1660746996615?e=1735171200&v=beta&t=WTpMgV_iHr7fMFNXIBiuIvcfqQRDLboaLQ5cQ_9frEw)
+<img src="https://i.imgur.com/Jz4lWwN.png" alt="imagen banner"/>
 <div align="center">
     <strong>Full Stack Developer</strong>
 </div>
